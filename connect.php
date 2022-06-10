@@ -15,7 +15,8 @@ if(isset($_POST['submit'])){
     header('location:contact');
     
 }else{
-    echo 'Something Went wrong ! ';
+    echo 'Something Went wrong !
+   ! ';
 }
 
 ?>
